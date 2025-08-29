@@ -8,6 +8,6 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "author": "Your Name Here",
+  "author": "John Doe",
   "license": "ISC"
 }
