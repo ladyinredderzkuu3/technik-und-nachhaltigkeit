@@ -1,0 +1,12 @@
+{
+  "name": "technik-und-nachhaltigkeit",
+  "version": "1.0.0",
+  "description": "Ein interaktives Web-Tool zur Förderung von nachhaltigen Technologien und Praktiken im Alltag.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
