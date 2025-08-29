@@ -1,3 +1,7 @@
+# Ignorierte Dateien und Ordner
+# node_modules: Abhängigkeiten der Node.js-Anwendung
 node_modules/
+# dist: Build-Ausgaben
 dist/
+# .env: Umgebungsvariablen-Datei
 .env
